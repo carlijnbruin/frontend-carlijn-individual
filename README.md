@@ -1,15 +1,19 @@
 # Welkom! :wave:
 
-Mijn naam is Carlijn Bruin en ik ben tweede jaars Communication and Multimedia Design.
+Mijn naam is Carlijn Bruin en ben tweede jaars student van de opleiding Communication and Multimedia Design van de HvA.
 
-In deze repository kan je de extra files van mijn project zien. Dit project heb ik gemaakt voor het vak Frontend, wat onderdeel is van blok Tech.
+## Waarom deze extra repository?
 
-Mijn jobstory gaat over het registreren van nieuwe gebruikers op een datingssite. Deze heb ik volledig werkende gemaakt met backend, zie: https://github.com/carlijnbruin/bloktech/tree/master/week_1/myapp, maar ook zonder backend, met enkel Frontend code: https://github.com/carlijnbruin/Frontend-Individual-Carlijn.
-De laatste link die hierboven staat, refereert ook naar de statische website voor Frontend.
+In deze repository kan je de extra files van mijn project zien, waarin ik laat zien hoe hoe ik **context** toepas op mijn jobstory. Dit project heb ik gemaakt voor het vak Frontend, wat onderdeel is van blok Tech.
 
-Deze huidige repository heb ik gecreeerd, omdat ik het lastig vond om het onderwep 'context' in mijn huidige webapp te verwerken. Dat komt omdat ik in mijn huidige webapp step-by-step naar de volgende pagina ga om een gebruiker te registreren. Omdat het step-by-step gaat, is het lastig om context toe te voegen, omdat je niet alles op kan slaan wat ingevuld wordt, omdat je geen backend gebruikt.
+Mijn jobstory gaat over het registreren van nieuwe gebruikers op een datingssite. Deze heb ik volledig werkende gemaakt met backend, zie: https://github.com/carlijnbruin/bloktech/tree/master/week_1/myapp. Maar ook zonder backend! Met enkel Frontend code, zie: https://github.com/carlijnbruin/Frontend-Individual-Carlijn.
 
-In deze repository laat ik dus ook de jobstory over het registreren zien, maar dan in 1 formulier. Daarin zet ik een aantal conditions, om te kijken welk 'statisch' persoon daarbij past, door middel van een image laat ik dat aan de gebruiker zien.
+Deze huidige repository heb ik gecreeerd, omdat ik het lastig vond om het onderwep 'context' in mijn huidige webapp toe te passen. Dat komt omdat ik in mijn huidige webapp step-by-step naar de volgende pagina ga om een gebruiker te registreren. Omdat het step-by-step gaat, is het lastig om context toe te voegen, omdat je niet alles op kan slaan wat ingevuld wordt, omdat je geen backend gebruikt.
 
-Dit is de statische website:
+In deze repository laat ik dus ook de jobstory over het registreren zien, maar dan in 1 formulier, in plaats van een step-by-step formulier, van de ene html pagina naar de volgende, etc. 
+
+## Hoe pak ik dit aan?
+In deze extra file zet ik een aantal conditions, om te kijken welk 'statisch' persoon daarbij past, zoals: de gebruiker vult in dat hij een man is, hij 40 jaar is en rookt. In dit geval krijgt deze man een vrouw te zien, die ouders is dan 35 en die rookt. Door middel van een image laat ik deze andere 'statische single' aan de gebruiker zien.
+
+Dit is de link naar de statische website:
 
