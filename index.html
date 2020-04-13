@@ -1,0 +1,46 @@
+<!-- Aanmelden scherm 1 -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <link href='css/styles.css' rel="stylesheet" type='text/css'
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+    <title>Matches</title>
+</head>
+
+  <body>
+      <form>
+        <fieldset>
+          <legend>Bekijk wie je matches zijn!</legend>
+
+          <label for="firstname">Mijn naam is:</label>
+          <input id="firstname" type="text" required>
+
+          <label for="age">Mijn leeftijd is:</label>
+          <input id="age" type="number" placeholder="Bijv. 25" required>
+
+          <label for="gender">Ik ben een:</label>
+            <select id="gender" required>
+              <option value="man">Man</option>
+              <option value="vrouw">Vrouw</option>
+            </select>
+
+          <label for="smoking">Ik rook:</label>
+            <select id="smoking" required>
+              <option value="wel">Wel</option>
+              <option value="niet">Niet</option>
+            </select>
+
+          <button type="button" id="button">Klaar? Klik hier</button>
+        </fieldset>
+      </form>
+
+      <img></img>
+
+      <script src="javascript/index.js" type="text/javascript"></script>
+    </body>
+</html>

@@ -1,0 +1,98 @@
+*{
+  font-family: 'Lato', sans-serif;
+  padding: 0em;
+  margin: 0em;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url('../images/alinenok-G9vRDGA46FY-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  margin-top: 2.5em;
+}
+
+label{
+  display: block;
+  font-size: 1.5em;
+  margin-bottom: 0.3em;
+}
+
+label:last-of-type{
+  margin-top: 1em;
+}
+
+input{
+  margin-bottom: 1.5em;
+  padding: 0.5em;
+  width: 100%;
+  border-radius: 10px;
+  border-color: #EB5014;
+  font-size: 1.3em;
+}
+
+button{
+  display: block;
+  padding: 1em 2em 1em 2em;
+  border-radius: 40px;
+  margin: 1em auto auto auto;
+  max-width: 14em;
+  width: 100%;
+  font-size: 1.3em;
+  border-color: #EB5014;
+  box-shadow: -1px 6px 14px rgba(0,0,0,0.3);
+  background-color: #EB5014;
+  color: white;
+}
+
+fieldset{
+  display: block;
+  border: none;
+  margin: auto 2em auto 2em;
+}
+
+legend{
+  font-size: 2.5em;
+  margin: 2em auto 0.5em auto;
+  font-weight: bold;
+}
+
+form{
+  width: 25em;
+  text-align: left;
+  margin: auto;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 2em 2em 2.3em 2em;
+  box-shadow: -1px 1px 14px rgba(0,0,0,0.3);
+}
+
+img{
+  border-radius: 20px;
+  margin: 1em auto 1em auto;
+  max-width: 25em;
+  display: block;
+  border: 4px solid white;
+}
+
+select{
+  margin: 0em auto 0.5em auto;
+  width: 100%;
+  height: 2.5em;
+  font-size: 1.3em;
+  font-weight: normal;
+  border-radius: 10px;
+  border-color: #EB5014;
+  border-width: 2px;
+  background-color: white;
+}
+
+input:valid{
+  border: 1px solid green;
+}
+
+select:valid{
+  border: 1px solid green;
+}
